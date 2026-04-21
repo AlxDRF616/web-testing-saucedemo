@@ -48,4 +48,4 @@ The focus was on validating user flows such as registration, login, and password
 
 Screenshot showing weak validation:
 
-![Weak Validation](../assets/web/weak-validation.png)
+![Weak Validation](assets/web/weak-validation.png)
