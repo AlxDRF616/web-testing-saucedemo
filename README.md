@@ -43,3 +43,9 @@ The focus was on validating user flows such as registration, login, and password
 - '/test-cases'
 - '/bug-reports'
 - '/evidence'
+
+## Evidence
+
+Screenshot showing weak validation:
+
+![Weak Validation](../assets/web/weak-validation.png)

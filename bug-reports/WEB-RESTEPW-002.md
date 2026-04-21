@@ -36,3 +36,18 @@ MEDIUM
 
 ## Priority
 MEDIUM
+
+## Evidence
+
+### System reveals account existence:
+
+![User Enumeration](../assets/web/web-resetpw-user-enumeration.png)
+
+
+### Weak Validation:
+
+![User Enumeration](../assets/web/web-register-weak-validation.png)
+
+### UX Issue:
+
+![User Enumeration](../assets/web/web-login-error.png)
