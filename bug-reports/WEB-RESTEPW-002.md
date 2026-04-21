@@ -46,7 +46,7 @@ MEDIUM
 
 ### Weak Validation:
 
-![User Enumeration](../assets/web/web-register-weak-validation.png)
+![User Enumeration](../assets/web/weak-validation.png)
 
 ### UX Issue:
 
